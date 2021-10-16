@@ -5,12 +5,10 @@ function getRandomInt(cap) {
 function nextEp() {
     fetch('./data.json').then(res => {
         return res.json();
-    }).then(eps => {
-        let e = eps[getRandomInt(eps.length)];
+    }).then(ids => {
+        let id = ids[getRandomInt(ids.length)];
         document.getElementsByTagName('iframe')[0].src =
-            `https://art19.com/shows/doughboys/episodes/${e.art19_id}/embed`;
-        document.getElementById('date').innerText = e.date;
-        document.getElementById('pc_link').href = `https://pca.st/episode/${e.pocketcasts_id}`;
+            `https://omny.fm/shows/doughboys/${id}/embed?style=cover`;
     });
 }
 

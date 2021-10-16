@@ -1,13 +1,13 @@
-const fs = require('fs');
+const https = require('https');
 
-let data = JSON.parse(fs.readFileSync(0, 'utf-8'));
-let res = [];
-for (let ep of data.podcast.episodes) {
-    res.push({
-        date: ep.published.slice(0,10),
-        pocketcasts_id: ep.uuid,
-        art19_id: ep.url.match(/rss.art19.com\/episodes\/(.*)\.mp3/)[1]
-    });
-}
-
-console.log(JSON.stringify(res, null, 4));
+https.get(
+    'https://www.omnycontent.com/d/playlist/77bedd50-a734-42aa-9c08-ad86013ca0f9/bb15eb7d-0e1d-4fe0-b333-ad8e00138f1d/5f63c2d0-6c12-4e4a-8457-ad8e00138f26/podcast.rss',
+    res => {
+        let data = '';
+        res.on('data', chunk => { data += chunk; });
+        res.on('end', () => {
+            let ids = data.match(/(?<=<link>https:\/\/omny.fm\/shows\/doughboys\/).*(?=<\/link>)/g);
+            console.log(JSON.stringify(ids, null, 4));
+        });
+    }
+);
