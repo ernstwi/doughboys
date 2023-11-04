@@ -9,9 +9,9 @@ function nextEp() {
     })
     .then((eps) => {
       let ep = eps[getRandomInt(eps.length)];
-      document.getElementsByTagName("title")[0].src = ep.title;
-      document.getElementsByTagName("number")[0].src = ep.number;
-      document.getElementsByTagName("mp3")[0].src = ep.mp3;
+      document.getElementById("title").src = ep.title;
+      document.getElementById("number").src = ep.number;
+      document.getElementById("mp3").src = ep.mp3;
     });
 }
 
