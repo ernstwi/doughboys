@@ -2,10 +2,8 @@ body {
   background-color: black;
   color: white;
   font-family: Courier;
-  width: 40em;
   margin-left: auto;
   margin-right: auto;
-  border: 1px dashed white;
   padding: 1em;
 }
 
@@ -22,5 +20,5 @@ audio {
 }
 
 #title {
-  height: 3em;
+  height: 4em;
 }
