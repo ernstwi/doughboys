@@ -11,6 +11,7 @@ function nextEp() {
       let ep = eps[getRandomInt(eps.length)];
       document.getElementById("title").src = ep.title;
       document.getElementById("number").src = ep.number;
+      document.getElementById("date").src = ep.date;
       document.getElementById("mp3").src = ep.mp3;
     });
 }
