@@ -1,415 +1,2243 @@
 [
-    "jack-in-the-box-2-with-dont-stop-or-well-die",
-    "mixt-with-ryan-perez",
-    "sushi-stop-with-alie-ward",
-    "the-some-of-the-doughboys-snack-pack",
-    "unlocked-yarrrctdoughbarrrchest-pirates-of-the-car",
-    "unlocked-the-mitchy-clause-a-doughboys-holiday-spe",
-    "shake-shack-3-with-evan-susser",
-    "85-c-bakery-cafe-with-lauren-mcguire",
-    "krispy-kreme-2-with-sam-sanders",
-    "unlocked-yarrrrrctdoughbarrrrrchest-garfields-hall",
-    "eataly-with-griffin-newman-and-david-sims",
-    "subway-breakfast-with-lily-sullivan",
-    "the-butchers-daughter-with-zach-cherry",
-    "yarrrrrrctdoughbarrrrrchest-blue-bayou-with-captai",
-    "yarrrrrctdoughbarrrrchest-long-john-silvers-with-l",
-    "yarrrrctdoughbarrrchest-pirates-dinner-adventure-w",
-    "yarrrctdoughbarrchest-pirates-booty-with-the-pirat",
-    "fazolis-with-mitra-jouhari",
-    "fat-sals-with-matt-christman",
-    "pressed-with-arden-myrin",
-    "hot-dog-on-a-stick-with-paul-f-tompkins",
-    "cold-stone-nintendo-with-heather-anne-campbell-and",
-    "buddys-detroit-style-pizza-w-marisa-pinson-live",
-    "kopps-frozen-custard-with-marisa-pinson-live",
-    "sweetgreen-2-with-emmy-blotnick",
-    "nothing-bundt-cakes-with-becky-feldman",
-    "pizza-hut-3-with-brendan-james",
-    "ihop-5-minions-menu-with-shaun-diston",
-    "burger-king-6-with-jon-gabrus-adam-pally",
-    "raising-canes-chicken-fingers-with-john-early",
-    "dough-zone-with-mookie-blaiklock-live",
-    "ivars-acres-of-clams-with-mookie-blaiklock-live",
-    "el-farolito-with-mookie-blaiklock-live",
-    "daves-hot-chicken-with-joe-randazzo",
-    "bertuccis-with-jon-gabrus-and-carl-tart-live",
-    "kellys-roast-beef-with-jon-gabrus-and-carl-tart-li",
-    "dangelo-with-jon-gabrus-and-carl-tart-live",
-    "burgerville-with-jordan-morris-and-bill-oakley-liv",
-    "cornish-pasty-with-jon-gabrus-live",
-    "bojangles-with-jesse-farrar-and-mike-hale-live",
-    "20220421-db-vanrobichaux",
-    "true-food-kitchen-w-claudia-odoherty",
-    "veggie-grill-w-mary-sasson",
-    "munch-madness-finale-arbys-vs-capriottis-vs-jersey",
-    "munch-madness-subway-vs-arbys-w-jen-dangelo-w-deli",
-    "munch-madness-firehouse-subs-vs-jersey-mikes-w-car",
-    "subway-vs-7-eleven-w-lauren-lapkus",
-    "jimmy-johns-vs-jersey-mikes-w-mano-agapion-betsy-s",
-    "tyga-bites-w-john-hodgman-david-rees",
-    "20220217-db-farleyelliott",
-    "smashburger-w-carlos-santos",
-    "kfc-beyond-w-mike-sacks",
-    "sweet-chick-with-tami-sagher",
-    "thighstop-with-jon-gabrus",
-    "qdoba-with-jamelle-bouie",
-    "lemonade-with-jessica-mckenna",
-    "unlocked-man-bites-dog",
-    "unlocked-wige-hard-a-doughboys-holiday-special",
-    "montys-good-burger-with-evan-susser",
-    "mcplant-with-eric-edelstein",
-    "umami-burger-3-with-judd-apatow",
-    "unlocked-dogdoughbarkfest-hey-spooky-buddies-with",
-    "the-capital-grille-with-negin-farsad",
-    "kreation-organic-with-jackie-johnson",
-    "800-degrees-with-betsy-sodaro",
-    "dogdoughbarkfest-nathans-famous-with-jon-gabrus-mi",
-    "dogdoughbarkfest-amc-theatres-with-adam-gertler",
-    "dogdoughbarkfest-costco-2-with-excalibur",
-    "dogdoughbarkfest-sonic-drive-in-with-matt-apodaca",
-    "insomnia-cookies-with-mary-sohn",
-    "doughboys-derekwaters",
-    "winchells-donut-house-with-mike-horowitz",
-    "little-caesars-2-with-marisa-pinson-and-david-nehe",
-    "mod-pizza-with-cody-ziglar",
-    "einstein-bros-bagels-with-tony-rodr-guez",
-    "shake-shack-2-with-libby-watson",
-    "mendocino-farms-with-avital-ash",
-    "checkers-and-rallys-2-with-tom-scharpling",
-    "wahlburgers-with-eliza-hooper",
-    "coca-cola-freestyle-with-chris-gethard",
-    "taco-bell-6-with-john-hodgman-paul-f-tompkins-and",
-    "golden-road-brewing-with-jordan-morris",
-    "unlocked-things-that-make-you-go-wow-with-seychell",
-    "burger-king-5-with-sam-richardson",
-    "unlocked-mreats-with-edwin-hodge",
-    "fresh-brothers-with-chris-mckay-samantha-nisenboim",
-    "unlocked-the-band-of-tomorrow-with-caroline-anders",
-    "taco-bell-7-with-lorne-balfe",
-    "unlocked-time-keeps-on-dippin-into-the-future-with",
-    "arbys-3-with-larry-fong",
-    "unlocked-twisted-tuesday-with-jen-dangelo",
-    "auntie-annes-with-mary-lynn-rajskub",
-    "taco-bell-5-with-christine-nangle-carl-tart-live",
-    "yard-house-2-with-dave-schilling",
-    "guy-fieris-flavortown-kitchen-with-eva-anderson",
-    "cosmic-wings-with-jana-schmieding",
-    "olive-garden-3-with-alison-rosen",
-    "mrbeast-burger-with-jason-concepcion",
-    "raising-canes-chicken-fingers-with-matt-selman",
-    "outback-steakhouse-3-with-joe-wengert",
-    "wendys-2-with-jacob-wysocki",
-    "munch-madness-pie-noon-live-chompionship-with-nico",
-    "munch-madness-pie-noon-semisweet-final-2-with-carl",
-    "munch-madness-pie-noon-semisweet-final-1-with-arde",
-    "munch-madness-pie-noon-round-1-part-1-with-jon-gab",
-    "kfc-2-with-lauren-ash-and-christy-oxborrow",
-    "papa-johns-2-with-raiza-licea",
-    "five-guys-2-with-andy-daly",
-    "panda-express-3-with-oscar-montoya",
-    "subway-3-with-sean-clements-hayes-davenport",
-    "popeyes-louisiana-kitchen-3-with-phil-rosenthal",
-    "jersey-mikes-2-with-jon-daly",
-    "panera-bread-2-with-monica-ruiz-and-chris-omalley",
-    "unlocked-where-everybody-doughs-your-name-with-mag",
-    "unlocked-its-a-wigerful-life-a-doughboys-holiday-s",
-    "steak-n-shake-5-with-evan-susser",
-    "dominos-2-jamelle-bouie",
-    "peets-coffee-with-chelsea-peretti",
-    "unlocked-doughboys-after-dark-with-marisa-pinson-d",
-    "burger-king-4-with-dont-stop-or-well-die",
-    "boston-market-2-with-dewayne-perkins",
-    "paris-baguette-with-lesley-tsina",
-    "rockaroundtheclockdoughberfest-dunkin-2-with-mooki",
-    "rockaroundtheclockdoughberfest-7-eleven-2-with-jas",
-    "rockaroundtheclockdoughberfest-dennys-3-with-shaun",
-    "rockaroundtheclockdoughberfest-ampm-with-sierra-ka",
-    "rockaroundtheclockdoughberfest-ihop-4-with-dan-ahd",
-    "the-cheesecake-factory-2-with-arden-myrin",
-    "in-n-out-burger-3-with-rob-lowe",
-    "blaze-pizza-with-eliza-skinner",
-    "potbelly-sandwich-shop-with-colt-cabana",
-    "moobys-with-eva-anderson",
-    "buffalo-wild-wings-2-with-leslie-lee-iii",
-    "bonchon-chicken-with-ed-zitron",
-    "wendys-breakfast-with-the-sloppy-boys",
-    "grocery-store-month-kroger-with-dave-king-and-esth",
-    "grocery-store-month-albertsons-with-raj-desai",
-    "grocery-store-month-costco-with-griffin-newman",
-    "grocery-store-month-whole-foods-with-fran-gillespi",
-    "grocery-store-month-trader-joes-with-john-hodgman",
-    "dog-haus-with-dani-fernandez",
-    "marcos-pizza-with-jon-daly",
-    "chilis-2-with-joey-janela",
-    "unlocked-the-scale",
-    "topical-freeze-marie-callenders-meals-with-cat-sol",
-    "topical-freeze-ore-ida-with-jason-mantzoukas",
-    "topical-freeze-tinas-burritos-with-jamelle-bouie",
-    "tombstone-week-tombstone-the-pizza-with-blank-chec",
-    "chipotle-3-with-alan-aisenberg-and-mike-castle",
-    "pizza-hut-2-with-jen-dangelo",
-    "honeybaked-ham-with-kevin-t-porter",
-    "good-times-burgers-with-betsy-sodaro-live",
-    "crown-burgers-w-betsy-sodaro-live",
-    "munch-madness-mcdonalds-chompionship-with-don-t-st",
-    "munch-madness-mcdonalds-elite-ate-with-nicole-byer",
-    "munch-madness-mcdonalds-round-of-32-part-2-with-pa",
-    "munch-madness-mcdonalds-round-of-64-with-jon-gabru",
-    "a-w-canada-with-jessica-mckenna-and-zach-reino-liv",
-    "the-habit-with-emmy-blotnick",
-    "ezells-with-toni-charline-ramos-live",
-    "boudin-bakery-with-the-sloppy-boys-live",
-    "swensons-with-carl-tart-live",
-    "culvers-with-carl-tart-live",
-    "harolds-chicken-shack-with-jacquis-neal",
-    "unlocked-wawa-with-carl-tart-christine-nangle-live",
-    "unlocked-xian-famous-foods-with-mike-hanford-paul",
-    "unlocked-the-2018-doughboys-christmas-special-wige",
-    "steak-n-shake-4-with-evan-susser",
-    "ample-hills-creamery-with-jason-sheridan",
-    "noahs-new-york-bagels-with-jennie-pierson",
-    "doughboys-double-garfields-thanksgiving-w-paul-rus",
-    "99-restaurant-with-nicole-byer-dano-live",
-    "regina-pizzeria-with-john-hodgman-nicole-byer-live",
-    "white-castle-with-mike-hanford-paul-rust-and-fran",
-    "the-ate-tl-cook-out-with-jesse-farrar-mike-hale",
-    "the-ate-tl-krystal-with-sam-richardson",
-    "the-ate-tl-the-varsity-with-joe-saunders",
-    "the-ate-tl-moes-southwest-grill-with-mary-lynn-raj",
-    "the-ate-tl-the-flying-biscuit-cafe-with-steve-agee",
-    "ritas-italian-ice-with-carl-tart-christine-nangle",
-    "marie-callenders-with-scott-aukerman",
-    "cava-with-jamelle-bouie-carl-tart-and-libby-watson",
-    "bens-chili-bowl-with-christine-nangle-carl-tart-li",
-    "popeyes-louisiana-kitchen-2-with-andrew-ti",
-    "burger-king-3-with-haley-mancini",
-    "lees-sandwiches-with-ify-nwadiwe",
-    "del-taco-2-with-kevin-bartelt-yusong-liu",
-    "subway-2-with-r-j-fried",
-    "shaq-week-shaquilles-with-josh-weiner",
-    "le-pain-quotidien-with-johnny-pemberton",
-    "papa-ginos-with-john-hodgman-jean-grae-and-jeff-tw",
-    "starbucks-reserve-with-jessica-chaffin",
-    "which-wich-with-josh-gondelman",
-    "al-s-beef-with-megan-batoon-amir-blumenfeld-live",
-    "ben-jerrys-with-the-sloppy-boys",
-    "fogo-de-ch-o-with-candice-king-kayla-ewell",
-    "p-f-changs-2-with-kulap-vilaysack",
-    "hattie-bs-with-carl-tart-live",
-    "waffle-house-with-carl-tart-live",
-    "sweetfin-pok-with-payman-benz",
-    "amc-dine-in-with-kevin-pollak-and-jaime-fox",
-    "episode-200-chilis-too-with-eva-anderson",
-    "lou-malnatis-with-jon-gabrus-christine-nangle-live",
-    "portillos-with-jon-gabrus-christine-nangle-live",
-    "sizzle-pie-with-bill-oakley-live",
-    "munch-madness-poquito-m-s-vs-qdoba-vs-taco-bell-wi",
-    "munch-madness-qdoba-vs-del-taco-with-matt-apodaca",
-    "munch-madness-poquito-m-s-vs-taco-bell-with-mike-h",
-    "munch-madness-chipotle-vs-qdoba-with-toni-charline",
-    "native-foods-with-tawny-newsome-alex-kliner",
-    "little-caesars-with-john-ross-bowie",
-    "smokes-poutinerie-with-alana-johnston-live",
-    "super-duper-burgers-with-eliza-skinner-jordan-morr",
-    "cheba-hut-with-jon-gabrus-live",
-    "the-hat-with-betsy-sodaro-and-mano-agapion-live",
-    "delta-sky-club-with-john-hodgman",
-    "poquito-m-s-with-dan-goor",
-    "doughboys-double-88-soups-up-with-joe-hartzler",
-    "doughboys-double-42-a-very-doughboys-christmas",
-    "mcdonalds-with-sarah-silverman",
-    "papa-johns-with-lamar-woods",
-    "rubios-with-mary-holland-live",
-    "dairy-queen-2-with-don-t-stop-or-we-ll-die",
-    "doughboys-double-66-tarot-pizza-with-ariana-lenars",
-    "el-torito-with-jack-allison",
-    "top-round-roast-beef-with-ike-barinholtz",
-    "maggianos-little-italy-with-kevin-pollak",
-    "octdoughberblessed-cracker-barrel-with-betsy-sodar",
-    "octdoughberblessed-loving-hut-with-raj-desai",
-    "octdoughberblessed-canters-deli-with-evan-susser-a",
-    "octdoughberblessed-in-n-out-vs-chick-fil-a-with-sc",
-    "benihana-with-darcy-carden",
-    "menchies-with-jackie-johnson",
-    "outback-steakhouse-2-with-leann-bowen",
-    "wahoos-fish-taco-with-eliza-skinner",
-    "johnny-rockets-with-esther-povitsky",
-    "p-f-changs-with-jessica-mckenna-and-zach-reino",
-    "the-evan-susser-summer-ice-cream-invitational-fina",
-    "pinks-hot-dogs-with-alana-johnston-live",
-    "souplantation-sweet-tomatoes-with-kelly-nugent-and",
-    "panera-bread-with-bill-oakley",
-    "mels-drive-in-with-jon-gabrus-live",
-    "panda-express-2-with-cristela-alonzo",
-    "ihob-with-bug-mane",
-    "norms-with-jordan-morris",
-    "firehouse-subs-with-mary-sohn",
-    "quiznos-with-haley-joel-osment",
-    "guss-world-famous-fried-chicken-with-ben-gruber",
-    "taco-bell-4-with-gillian-jacobs",
-    "denny-s-solo-menu-with-matt-mira",
-    "tgi-friday-s-2-with-the-sklar-brothers",
-    "ruths-chris-steak-house-with-andrew-secunda",
-    "olive-garden-2-with-joel-kim-booster",
-    "farmer-boys-with-nick-rutherford",
-    "the-dopeboys-4-20-smokestackular-with-jon-gabrus",
-    "the-pie-hole-with-marcy-jarreau",
-    "cocos-with-alison-rosen",
-    "munch-madness-finals-with-paul-scheer",
-    "munch-madness-semifinals-match-2-with-michael-dani",
-    "munch-madness-semifinals-match-1-with-carl-tart",
-    "munch-madness-little-caesars-vs-papa-johns-with-jo",
-    "munch-madness-dominos-vs-pizza-hut-with-claudia-od",
-    "ike-s-with-spencer-crittenden-live",
-    "sugarfish-with-jason-mantzoukas",
-    "checkers-and-rally-s-with-neil-punsalan",
-    "the-halal-guys-with-dave-schilling",
-    "whataburger-with-jon-gabrus-live",
-    "carl-s-jr-hardee-s-3-with-alana-johnston",
-    "shipley-do-nuts-with-jon-gabrus-live",
-    "doughboys-double-dream-mitchy",
-    "cinnabon-with-nicole-byer",
-    "live-in-austin-torchys-tacos-with-jon-gabrus",
-    "fosters-freeze-with-holly-prazoff",
-    "chick-fil-a-with-no-l-wells",
-    "doughboys-double-13-summer-s-poppin-with-betsy-sod",
-    "dicks-drive-in-with-evan-susser-live",
-    "wienerschnitzel-with-rob-huebel",
-    "arbys-2-with-john-hodgman",
-    "the-great-shrimp-off-with-sean-clements-and-hayes",
-    "medieval-times-with-mary-holland-and-matt-newell",
-    "espn-zone-with-neil-campbell",
-    "yard-house-with-matt-besser",
-    "guys-american-kitchen-with-christine-nangle-live",
-    "el-pollo-loco-with-lamar-woods",
-    "shakeys-pizza-with-kyle-mooney",
-    "hometown-buffet-with-toni-charline",
-    "kfc-with-paul-f-tompkins",
-    "chipotle-2-with-chelsea-davison",
-    "doughboys-double-24-the-first-domino-with-joe-quas",
-    "daphne-s-with-jessica-jean-jardine",
-    "roscoes-house-of-chicken-and-waffles-with-carl-tar",
-    "ihop-2-with-danny-jelinek",
-    "dunkin-donuts-with-joe-mande",
-    "golden-corral-with-stoney-sharp",
-    "umami-burger-2-with-david-neher",
-    "shake-shack-with-jason-concepcion",
-    "doughboys-double-14-unsatisfied-yelpers-with-erin",
-    "claim-jumper-with-heather-anne-campbell",
-    "burger-king-2-with-jordan-morris-live",
-    "sizzler-with-marisa-pinson",
-    "jersey-mike-s-with-drew-tarver",
-    "the-coffee-bean-with-hannah-kasulka",
-    "ikea-with-dave-thomason",
-    "sharky-s-with-erin-mcgathy",
-    "carl-s-jr-hardee-s-2-with-chris-vanartsdalen",
-    "mr-pizza-with-jesse-thorn",
-    "wetzel-s-pretzels-with-jon-daly",
-    "free-preview-doughboys-double-batteries-not-includ",
-    "nugget-power-hour-with-nicole-byer-jon-gabrus",
-    "jimmy-johns-with-lauren-lapkus",
-    "jamba-juice-with-dylan-gelula",
-    "tournament-of-chompions-finals-with-paul-rust",
-    "tournament-of-chompions-wendy-s-v-wingstop-with-ma",
-    "tournament-of-chompions-mcdonald-s-v-popeyes-with",
-    "tournament-of-chompions-buffalo-wild-wings-v-wings",
-    "tournament-of-chompions-full-bird-region-with-euge",
-    "tournament-of-chompions-chick-fil-a-v-wendy-s-with",
-    "tournament-of-chompions-mcdonald-s-v-panda-express",
-    "in-n-out-burger-2-with",
-    "mac-to-fight-with-evan-susser-van-robichaux",
-    "bj-s-with-sean-clements-hayes-davenport",
-    "taco-bell-3-with-bobby-lee",
-    "taco-bell-2-with-jon-gabrus-live",
-    "tony-romas-with-bug-mane",
-    "buca-di-beppo-with-drew-mcweeny",
-    "tender-greens-with-ryan-stanger",
-    "rogueboys-rogue-one-with-drew-mcweeny",
-    "steak-n-shake-3-with-evan-susser",
-    "jack-in-the-box-with-spencer-crittenden",
-    "hooters-with-kulap-vilaysack",
-    "churchs-chicken-with-demi-adejuyigbe",
-    "wood-ranch-with-esther-povitsky",
-    "cold-stone-creamery-with-kevin-t-porter",
-    "rocklobsterfest-red-lobster-4-with-sean-clements-h",
-    "rocklobsterfest-red-lobster-3-with-nicole-byer",
-    "rocklobsterfest-red-lobster-2-with-ross-kimball",
-    "rocklobsterfest-red-lobster-1-with-jessica-mckenna",
-    "dairy-queen-with-christine-nangle-and-matt-selman",
-    "baskin-robbins-with-dave-king",
-    "dave-busters-with-allan-mcleod",
-    "yogurtland-with-van-robichaux",
-    "red-robin-with-darcy-carden",
-    "the-cheesecake-factory-with-beck-bennett",
-    "minisode-after-dough-with-joe-episode-3",
-    "doughlympics-dunkin-donuts-v-mcdonalds-v-starbucks",
-    "minisode-after-dough-with-joe-episode-2",
-    "doughlympics-chipotle-v-del-taco-v-taco-bell-with",
-    "minisode-after-dough-with-joe-episode-1",
-    "doughlympics-dominos-v-papa-johns-v-pizza-hut-with",
-    "minisode-the-2016-doughlympic-opening-ceremonies-h",
-    "7-eleven-with-fran-gillespie-live",
-    "fatburger-with-yamara-taylor",
-    "bobs-big-boy-with-dave-ferguson",
-    "bubba-gump-shrimp-co-with-paul-scheer",
-    "islands-with-nick-mundy",
-    "pinkberry-with-lauren-lapkus",
-    "hokkaido-ramen-santouka-with-jeff-kenji-sloniker",
-    "jollibee-with-jonah-ray",
-    "baja-fresh-with-claudia-odoherty",
-    "popeyes-louisiana-kitchen-with-lesley-arfin",
-    "yoshinoya-with-jensen-karp",
-    "mortons-the-steakhouse-with-tim-kalpakis",
-    "the-olive-garden-with-christine-nangle",
-    "hillstone-with-david-phillips",
-    "sweetgreen-with-siobhan-thompson",
-    "chuck-e-cheeses-with-erin-mcgathy",
-    "veggie-grill-with-nathan-barnatt",
-    "tournament-of-chompions-finals-in-n-out-burger-v-s",
-    "tournament-of-chompions-minisode-winner-v-wendys",
-    "tournament-of-chompions-minisode-five-guys-v-shake",
-    "tournament-of-chompions-carls-jr-hardees-v-in-n-ou",
-    "tournament-of-chompions-steak-n-shake-v-6-seed",
-    "tournament-of-chompions-eat-in-minisode-v",
-    "tournament-of-chompions-carls-jr-hardees-v-fuddruc",
-    "wendys-with-paul-rust",
-    "mimis-cafe-with-georgia-hardstark",
-    "panda-express-with-tricia-mcalpin",
-    "togos-with-matty-smith",
-    "krispy-kreme-with-matt-besser",
-    "california-pizza-kitchen-with-eva-anderson",
-    "five-guys-with-jefferson-dutton",
-    "pizza-hut-with-neil-campbell",
-    "steak-n-shake-2-with-evan-susser",
-    "arbys-with-vanessa-ramos",
-    "wingstop-with-emmy-blotnick",
-    "del-taco-with-alan-yang",
-    "fuddruckers-with-ryan-perez",
-    "burger-king-with-john-roy",
-    "rockdoughberfest-rock-brews-with-zoe-jarman",
-    "rockdoughberfest-hard-rock-cafe-with-scott-gairdne",
-    "rockdoughberfest-margaritaville-with-mike-carlson",
-    "rockdoughberfest-cabo-wabo-cantina-with-julie-bris",
-    "l-l-hawaiian-barbecue-with-eugene-cordero",
-    "starbucks-with-joe-saunders",
-    "buffalo-wild-wings-with-matt-selman",
-    "steak-n-shake-with-evan-susser",
-    "subway-with-fran-gillespie",
-    "in-n-out-burger-with-armen-weitzman",
-    "boston-market-with-annie-mebane",
-    "original-tommys-with-jim-woods",
-    "dennys-with-farley-elliott",
-    "chick-fil-a-with-betsy-sodaro",
-    "carrows-with-erin-whitehead",
-    "dominos-with-matt-kowalick",
-    "carls-jr-hardees-with-ben-axelrad",
-    "umami-burger-with-heather-anne-campbell",
-    "chipotle-with-mike-hanford",
-    "tgi-fridays-with-jordan-morris",
-    "long-john-silvers-with-mary-holland",
-    "outback-steakhouse-with-jon-gabrus",
-    "ihop-with-alison-agosti",
-    "taco-bell-with-jack-allison",
-    "chilis-with-eva-anderson"
+    {
+        "title": "Big Chicken with Dan Black",
+        "number": "422",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/89a9728e-7b7c-4377-866d-18f2d32ef04a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Boo's Philly Cheesesteaks with Don't Stop or We'll Die (LIVE)",
+        "number": "421",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/feadffda-f240-40bc-b919-fa79bcfbc06b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Shockdoughbooerdeath: Lucifers Pizza",
+        "number": "420",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7156cf8a-975f-4a9a-a4b8-3d1d481cd368.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Shockdoughbooerdeath: Zankou Chicken with Jason Mantzoukas",
+        "number": "419",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/092cc198-ca19-4971-b2e9-719f71c6df46.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Shockdoughbooerdeath: Voodoo Doughnut with Oscar Montoya",
+        "number": "418",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/72ac2b4d-90ad-4e24-8a3d-fe855ea74766.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Hungry Howies with Joe Kwaczala",
+        "number": "417",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ad2ce216-4822-4c3f-b7fd-34a510e3d91a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Guisados with Lamar Woods",
+        "number": "416",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/06b8e0c6-3f1a-41ad-b152-c1f380fd9e79.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sidecar Doughnuts with David Wain",
+        "number": "415",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/32b106ff-80d7-4657-ac34-9352272e2ccd.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Pollo Campero with Jack Allison and Kate Shapiro",
+        "number": "414",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/07fcbaf8-114c-4cd5-bb27-4bdab39d8431.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Qwench Juice Bar with Eliza Skinner",
+        "number": "413",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ea005ca4-2439-41dd-9b34-f3c4807bdf73.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sombrero with Neil Campbell and Fran Gillespie (LIVE)",
+        "number": "412",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e9cbac85-7e3b-4266-9b17-246d46bebe40.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Howlin' Rays with Kumail Nanjiani",
+        "number": "411",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7e6e06d0-6682-495b-8f3a-44945d8a8a69.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rick's Drive In & Out with Ashley Ray",
+        "number": "410",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/888fe0bb-5fa4-411d-8b38-96c8c28f496e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Do-Rite Donuts with Carl Tart (LIVE)",
+        "number": "409",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b844db4c-299c-4c2d-aef1-50942860ef28.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "HomeState with Stephanie Beatriz",
+        "number": "408",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5971126a-fb0c-4d7a-a7c6-70895b222de2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell VIII with Samoa Joe",
+        "number": "407",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b4bb71f8-13f4-4d2b-a077-e6ff1b69dd98.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco John's with Carl Tart (LIVE)",
+        "number": "406",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0a46d2cf-9289-446d-81cc-c497bb39e67b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tasty Burger with Mookie Blaiklock, Zach Cherry, & Mike Hanford (LIVE)",
+        "number": "405",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7ddeec36-176f-47e1-abe1-7be58d7ff512.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Gray's Papaya with Zach Cherry, Mike Hanford, & Tami Sagher (LIVE)",
+        "number": "404",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4e18b81e-3d9f-417e-bb57-c177aa008b1c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ledo Pizza with Jamelle Bouie & Tami Sagher (LIVE)",
+        "number": "403",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/fa827955-fa6e-45cc-b551-05279a0c8822.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "KazuNori with Joanna Calo",
+        "number": "402",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6b1ab3f2-8624-4542-b494-3dbc16a41436.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jollibee 2 with John Early & Claudia O'Doherty",
+        "number": "401",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c03e962f-0340-45af-bc79-216c53bb132b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Good Humor with Evan Susser",
+        "number": "400",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/41014b21-884b-47c9-b20f-744a5cfb31d4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Domino's 3 Loaded Tots with Emily Gonzalez and Henley Cox",
+        "number": "399",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6686bc52-dae8-4706-b6f7-12b6173bbcf3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fatburger 2 with Andrea Jin",
+        "number": "398",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8f945c68-93d6-46cb-97b0-c52a5d45352d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Kura with Jesse Farrar and Mike Hale",
+        "number": "397",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3a4d2bf9-6937-41c5-82a0-d253c87923ec.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Erewhon with Dan Lippert & Ryan Rosenberg",
+        "number": "396",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4a3862f5-5395-46fa-bdff-ce42a4a9922e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Orange Julius with Scott Aukerman",
+        "number": "395",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e120e863-28cc-4be5-8881-23dab546bcb5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Crumbl Cookies with Mary Jane Gibson and Mike Glazer",
+        "number": "394",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e4e9a033-d820-4d54-982c-5ac3c309140d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Two Hands Corn Dogs with Jamie Loftus",
+        "number": "393",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4c69681e-90c4-4a29-a854-1d85e206cef5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Honeybee Burger with Mort Burke",
+        "number": "392",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9907ad5b-f768-4d48-81f1-1d696d649faf.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Sweetfin vs Chipotle vs Sweetgreen with Lauren Lapkus and Nicole Byer (LIVE)",
+        "number": "391",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/023b041b-7ada-4a92-a1f6-e12b9d6ecfe4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Chipotle vs Pressed with Paul Scheer",
+        "number": "390",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6f0d402f-cf9d-4159-bcf1-591ef1653e3c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Cava vs Sweetfin with Arden Myrin",
+        "number": "389",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8e7ff981-3aa8-452b-9cfa-4a1c5fa98fe6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Pressed vs Jamba with Zach Cherry",
+        "number": "388",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f77f5a8b-6a45-4d21-932e-7ce0aa05dcdc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Cava vs Sweetgreen with Adam Pally",
+        "number": "387",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3fb24cfc-32a1-4323-9c45-88f6a2079313.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Spitz with John Hodgman",
+        "number": "386",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/40ccb87e-de06-4fda-a93f-aeeff0e4a98a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Love Week: Sonic Drive-In 2 with Alana Johnston & Norm Sousa Love Week",
+        "number": "385",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0be491f4-613f-4015-b687-2666fbc54c4e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jeni's Splendid Ice Creams  with Lilan Bowden",
+        "number": "384",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/21fb143c-604b-47dc-ab51-9615a07dd34e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Corner Bakery with Marques Ray",
+        "number": "383",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6c5678a9-e960-4c7f-84ef-e30d618ac639.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jack in the Box 2 with Don't Stop or We'll Die",
+        "number": "382",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8deeecb0-b323-4553-b825-09139dc46f77.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Mixt with Ryan Perez",
+        "number": "381",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4d5a60af-3b4c-41d8-8820-f9d467042c8a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "SushiStop with Alie Ward",
+        "number": "384",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7c70e764-4c57-4031-9b95-9a10c5daf9a0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Some of The Doughboys Snack Pack",
+        "number": "414",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b0c5e5eb-1815-419f-b4ef-762a8a6d150b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED: Yarrrctdoughbarrrchest: Pirates of the Caribbean Ride with Captain Snack Tarot aka Kyle Mooney",
+        "number": "413",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/fa46f5d2-4004-4355-8af3-fe51eed064fd.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED: The Mitchy Clause: A Doughboys Holiday Special",
+        "number": "415",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4ea731d6-c6d4-42dc-a4e9-4f354f48d8c4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Steak ‘n Shake 7: Shake Shack 3 with Evan Susser",
+        "number": "379",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b08125d8-4125-4536-94b5-67ba72f495a8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "85°C Bakery Cafe with Lauren McGuire",
+        "number": "378",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8464eda4-f271-45b7-9c41-9f7f7039ea74.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Krispy Kreme 2 with Sam Sanders",
+        "number": "377",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/47eb215d-40cb-43cb-8f71-ced8c9ec56ff.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED: Yarrrrrctdoughbarrrrrchest: Garfield's Halloween Adventure with Pirate Paulie aka Paul Rust",
+        "number": "415",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e3156e75-9659-45dd-a6d5-56e7c8ec37e4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Eataly with Griffin Newman and David Sims",
+        "number": "376",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c76c17c5-32ab-4768-adb6-53dc44baa677.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Subway Breakfast with Lily Sullivan",
+        "number": "375",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4a8db412-da25-444f-8ea0-059d84870664.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Butcher's Daughter with Zach Cherry",
+        "number": "374",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d4a60101-940c-4b40-a4b9-06e3b51f093e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yarrrrrrctdoughbarrrrrchest: Blue Bayou with Captain Jason Barbosa aka Jason Sheridan, Michael Will Turner Carlson aka Mike Carlson, and Sauvignon Blanc Beard aka Scott Gairdner aka Podcast the Ride",
+        "number": "373",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0dcba3ea-6341-4e6b-9aa2-4c5ad7c83017.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yarrrrrctdoughbarrrrchest: Long John Silver's with Long Dong Silver aka Mano Agapion and Brown Plate aka Betsy Sodaro",
+        "number": "372",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/af6f19d5-fb8d-4e17-8406-655d1a25e341.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yarrrrctdoughbarrrchest: Pirates Dinner Adventure with Evil No Handerson aka Eva Anderson",
+        "number": "371",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/82d98450-3b7e-495d-a184-95362272ba25.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yarrrctdoughbarrchest: Pirate's Booty with The Pirate Known Only as Patchy Beard aka Reluctant John, John Hodgman",
+        "number": "370",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c541d488-be28-4e38-8b9e-6f4a0a08ccc1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fazoli's with Mitra Jouhari",
+        "number": "369",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ac84b77d-9f17-48a8-bb35-9c71643c32d9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fat Sal's with Matt Christman",
+        "number": "368",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4512a924-0044-4a6b-b450-e8a701e6681f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Pressed with Arden Myrin",
+        "number": "367",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e0fad3a3-a37a-4073-9730-410d38c17157.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Hot Dog on a Stick with Paul F. Tompkins",
+        "number": "366",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/50057a44-3888-4982-83c0-d6dd2a6074d4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Cold Stone Nintendo with Heather Anne Campbell and Matt Apodaca",
+        "number": "365",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a63dfe3b-cbeb-4b1b-a5e1-cb641f49153d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Buddy's Detroit-Style Pizza w/ Marisa Pinson (LIVE)",
+        "number": "364",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3bb6cd15-6f61-4399-be32-e47b7151b590.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Kopp's Frozen Custard with Marisa Pinson (LIVE)",
+        "number": "363",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e1f3cd02-35a8-4abe-bfe4-49eae5b844a5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sweetgreen 2 with Emmy Blotnick",
+        "number": "362",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c9f68c11-8ead-4a56-86fa-96145a222879.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Nothing Bundt Cakes with Becky Feldman",
+        "number": "361",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f3065daa-3feb-41aa-ad36-0def4159aa59.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Pizza Hut 3 with Brendan James",
+        "number": "360",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6a0dc275-17dc-4efb-94e0-812a6a8c4277.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "IHOP 5: Minions Menu with Shaun Diston",
+        "number": "359",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6ef8aa13-8a5f-4617-aec8-66c8f2646f36.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Burger King 6 with Jon Gabrus & Adam Pally",
+        "number": "358",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6dc8a113-4cfd-47c3-9aaa-79c819be4c85.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Raising Cane's Chicken Fingers 2 with John Early",
+        "number": "357",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/bc63b8ef-76cc-4a45-ba3a-2dd1acda3d56.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dough Zone with Mookie Blaiklock (LIVE)",
+        "number": "356",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e343661c-ccf7-4b1a-a738-ac2b4d135120.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ivar's Acres of Clams with Mookie Blaiklock (LIVE)",
+        "number": "355",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ee7a9434-0299-4886-8836-84d900d0fdd9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "El Farolito with Mookie Blaiklock (LIVE)",
+        "number": "354",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f8b201e7-bbe2-42f4-9bb0-a2c9da74b8df.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dave's Hot Chicken with Joe Randazzo",
+        "number": "353",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/facd61fd-a473-4031-af99-232a776f7c80.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Bertucci's with Jon Gabrus and Carl Tart (LIVE)",
+        "number": "352",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/49a19888-5199-441d-9910-0055d3197e4a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Kelly's Roast Beef with Jon Gabrus and Carl Tart (LIVE)",
+        "number": "351",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1b3e2de1-c889-436a-b8e4-9bbed72142dc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "D'Angelo with Jon Gabrus and Carl Tart (LIVE)",
+        "number": "350",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/33caaa1c-cd99-4aec-9bcc-74c31d8b7fe3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Burgerville with Jordan Morris and Bill Oakley (LIVE)",
+        "number": "349",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3e46c9ee-f27b-4562-b462-c599b4d39ece.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Cornish Pasty with Jon Gabrus (LIVE)",
+        "number": "348",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/724ebd74-cec8-4360-bbed-d1b7afe9f952.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Bojangles with Jesse Farrar and Mike Hale (LIVE)",
+        "number": "344",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/045f0784-4b42-4375-83cf-a679bf8b7288.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Popeyes 4 with Van Robichaux",
+        "number": "346",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/affc7507-6cbb-4ffb-9b1f-09509e3f4d64.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "True Food Kitchen with Claudia O'Doherty",
+        "number": "345",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6687749b-c05f-4f59-bf0c-ca879e699014.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Veggie Grill with Mary Sasson",
+        "number": "344",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f914d0d4-0d12-4d95-b702-29307e541aa4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness Finale: Arbys vs Capriotti's vs Jersey Mikes with Michael Cassady and Paul Rust (Live)",
+        "number": "343",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5029eee8-cf3e-4ca0-8492-86d93eb16c81.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Subway vs Arby's with Jen D'Angelo (w/ Deli Boys as Pickle Correspondents)",
+        "number": "342",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ea94a03f-182c-4ddd-b914-4d696162f733.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Firehouse Subs vs Jersey Mike's with Carl Tart & Lamar Woods",
+        "number": "341",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5b8cca9e-656a-47ed-860e-02c7545b13db.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Subway vs 7-Eleven with Lauren Lapkus",
+        "number": "340",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d586e53a-97a5-4521-9313-78a4c843d79a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Jimmy John's vs Jersey Mike's with Mano Agapion & Betsy Sodaro (w/ Joe Saunders as Bread Correspondent)",
+        "number": "339",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/984f9709-4c02-4084-90e1-3ad06d030b0c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tyga Bites with John Hodgman & David Rees",
+        "number": "338",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/48c80439-0ad5-4f4b-b21d-1d76866581c4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Din Tai Fung with Farley Elliott",
+        "number": "339",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/38e2c16c-71d6-44e2-a216-df2040154393.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Smashburger with Carlos Santos",
+        "number": "336",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cbaee37c-409f-446f-91f7-d353cfef74b7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "KFC Beyond with Mike Sacks",
+        "number": "335",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8fd73221-3c08-40dd-ab63-840e0a38a826.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sweet Chick with Tami Sagher",
+        "number": "334",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4cd55afb-60cd-4234-a46a-8e3ec012ac20.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Thighstop with Jon Gabrus",
+        "number": "333",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/03224bc1-b665-4e2e-9f94-eb5a2467c260.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "QDOBA with Jamelle Bouie",
+        "number": "332",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2a840a0c-8e22-4e31-b2b3-7882036b1204.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Lemonade with Jessica McKenna",
+        "number": "331",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/35cd9e4f-7f50-4c71-abc4-40cbce67c25b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! - Man Bites Dog",
+        "number": "400",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/84f1b795-34c5-418b-8e2c-2d9c6614ac55.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! - Wige Hard: A Doughboys Holiday Special",
+        "number": "413",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1668ce7d-d2d6-4b4c-9530-14470e8797e6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Monty's Good Burger with Evan Susser",
+        "number": "330",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5c952c99-36eb-4c99-bca0-8b4261dfe963.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "McPlant with Eric Edelstein",
+        "number": "329",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/15c6b234-39c9-4cf4-b8c2-3c5fc5c17c96.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Umami Burger 3 with Judd Apatow",
+        "number": "328",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/64487723-be98-4795-9cc7-d3fb9da1f403.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! - Dogdoughbarkfest: Hey Spooky Buddies with Paul Rust",
+        "number": "400",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/bb9c8f39-c8ad-4ded-b009-09952403d1cf.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Capital Grille with Negin Farsad",
+        "number": "327",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cb26bca4-0234-4edd-ade0-a72cbdc8fe71.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Kreation Organic with Jackie Johnson",
+        "number": "326",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/34d0b6ab-429c-490d-87cf-46b27f01f1d8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "800 Degrees with Betsy Sodaro",
+        "number": "325",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/505446ed-8478-4fb8-9c13-c2dce721097b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dogdoughbarkfest: Nathan's Famous with Jon Gabrus, Mike Hanford & Griffin Newman (Live)",
+        "number": "324",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b0b9bf17-d2b8-49bb-864b-8941655b1391.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dogdoughbarkfest: AMC Theatres with Adam Gertler",
+        "number": "323",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8fff4e4c-a294-42a8-a015-f4c45ef68fb3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dogdoughbarkfest: Costco 2 with Excalibur",
+        "number": "322",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c92c971d-5b82-45c2-ab0d-3a54d06dc663.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dogdoughbarkfest: Sonic Drive-In with Matt Apodaca",
+        "number": "321",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/fdb17214-f8f9-41e2-8cd5-4ee05bd2df48.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Insomnia Cookies with Mary Sohn",
+        "number": "320",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/34a86662-4be8-4c23-8465-09678153f471.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Charleys Philly Steaks with Derek Waters",
+        "number": "319",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/82720ad4-7e3a-410f-a9ed-86db5036684f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Winchell's Donut House with Mike Horowitz",
+        "number": "318",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/32a1fb88-86ac-4a87-b71f-d3a7accc8b8e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Little Caesars 2 with Marisa Pinson and David Neher",
+        "number": "317",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a80582e7-686e-4036-b743-297b18e84fd0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "MOD Pizza with Cody Ziglar",
+        "number": "316",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a42c8343-36ff-43a5-b245-708ae86868b8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Einstein Bros. Bagels with Tony Rodríguez",
+        "number": "315",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b9b9e11f-5813-4955-9039-350305a054b0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Shake Shack 2 with Libby Watson",
+        "number": "314",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6904ce6b-8597-4491-99b3-91adcc02fb59.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Mendocino Farms with Avital Ash",
+        "number": "313",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ddf44d63-2529-4fee-8bb0-67c2fbb43320.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Checkers and Rally's 2 with Tom Scharpling",
+        "number": "312",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8f031bdd-1b30-432b-9dfe-dc70ae732b47.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wahlburgers with Eliza Hooper",
+        "number": "311",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/099de313-046b-48ab-aaa0-5db2c61eebb1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Coca-Cola Freestyle with Chris Gethard",
+        "number": "310",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/735ceecb-308c-4eac-9d9e-da0397a79b1a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell 6 with John Hodgman, Paul F. Tompkins, and Arden Myrin (Live)",
+        "number": "309",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2d968c9f-c2b1-46eb-b356-71cca15b6e9e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Golden Road Brewing with Jordan Morris",
+        "number": "308",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d8baf68e-24d2-47dc-90b5-63e31870dbd3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! Things That Make You Go Wow with Seychelle Gabriel",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d9d9b6bf-38d4-43cf-8c7c-29f14b691c78.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Burger King 5 with Sam Richardson",
+        "number": "307",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4fb9ebc7-562b-4f0f-acdd-ecba00d7e0ec.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! MREats with Edwin Hodge\t",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/76136fe7-5654-45ff-9205-34ee866e41c0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fresh Brothers with Chris McKay & Samantha Nisenboim",
+        "number": "306",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/24d5fd6e-42b6-48a2-981c-39996c1ba164.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! The Band of Tomorrow with Caroline Anderson",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2666836f-cdcf-4898-879c-061c9e010480.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell 7 with Lorne Balfe",
+        "number": "305",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b8706c4e-15ff-412f-a7eb-570cd9dc53cc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! Time Keeps On Dippin' Into The Future with Alan Trong",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/faba103a-6eca-4498-a8e2-157c0e353b0f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Arby's 3 with Larry Fong",
+        "number": "304",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/091ffeff-14b3-41b3-a615-1218e9d5d552.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! Twisted Tuesday with Jen D'Angelo",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4bba5871-cd23-4665-b5fa-bc0d29e088b9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Auntie Anne's with Mary Lynn Rajskub",
+        "number": "303",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/23ae83a3-e898-4a21-a7dc-4ea5f9b4ae7a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell 5 with Christine Nangle & Carl Tart (Live)",
+        "number": "302",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6a092667-d241-478f-b68e-c70d12410812.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yard House 2 with Dave Schilling",
+        "number": "301",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b32139a1-b96b-4468-a711-11151850e557.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Guy Fieri's Flavortown Kitchen with Eva Anderson",
+        "number": "300",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/61a02b02-b4ce-4086-b8fe-06499e38f4bb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Cosmic Wings with Jana Schmieding",
+        "number": "299",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ca66cbe0-d3bd-4891-95cf-e1b0fc902183.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Olive Garden 3 with Alison Rosen",
+        "number": "298",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e0561f3f-51a8-41b5-b2a4-1cf355d62e48.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "MrBeast Burger with Jason Concepcion",
+        "number": "297",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5c98c6b7-5bde-4961-a518-9be19ac66880.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Raising Cane's Chicken Fingers with Matt Selman",
+        "number": "296",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/970a5725-1dc0-439d-b5f8-fee784153870.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Outback Steakhouse 3 with Joe Wengert",
+        "number": "295",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f7b60241-c2e9-4250-b9f4-5eed2fec021f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wendy's 2 with Jacob Wysocki ",
+        "number": "294",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c6fc53d6-3a3a-4ee0-9c80-d11826821009.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Pie Noon: Live Chompionship with Nicole Byer & Jessica McKenna",
+        "number": "293",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ea2074c6-0f2d-476b-89ae-9f7b33603bf9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Pie Noon: Semisweet Final 2 with Carl Tart & Ahsohn Williams",
+        "number": "292",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7d1ceb51-35a7-4c00-8e47-9b6a31e43d8f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Pie Noon: Semisweet Final 1 with Arden Myrin",
+        "number": "291",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e0827dba-dc26-452b-bee9-b598805518d1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Pie Noon: Round 1 Part 1 with Jon Gabrus",
+        "number": "290",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dc1112c2-b4a2-4ca8-9ad2-08eeddaf71ea.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "KFC 2 with Lauren Ash and Christy Oxborrow",
+        "number": "289",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/138ff649-6f08-4b10-ab74-63cf33a54da4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Papa John's 2 with Raiza Licea",
+        "number": "288",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4c888f4a-fc96-4992-a171-e42675244f77.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Five Guys 2 with Andy Daly",
+        "number": "287",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0144fafd-0cc1-48da-8307-7f41cddc7eee.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Panda Express 3 with Oscar Montoya",
+        "number": "286",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/aa074586-6b1e-4615-8e1a-5e0347969f13.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Subway 3 with Sean Clements & Hayes Davenport",
+        "number": "285",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/df2bef13-52d9-44fb-9c28-0333d5cd25e4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Popeyes Louisiana Kitchen 3 with Phil Rosenthal",
+        "number": "284",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4098bc2b-cd4d-4a3e-871a-e80b5a330535.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jersey Mike's 2 with Jon Daly",
+        "number": "283",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ba4bbea7-819f-4b4f-ae22-b8e8c52c7614.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Panera Bread 2 with Monica Ruiz and Chris O'Malley",
+        "number": "282",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dc1c78f4-c3f5-4541-b8ad-e1694c08c84b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! Where Everybody Doughs Your Name with Maggie Monahan",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d51231df-61ae-4d16-9ff8-9afc6f368282.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! - It's a Wigerful Life: A Doughboys Holiday Special",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/36b57a3d-0375-4b39-84d7-0abe46b4d900.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Steak 'n Shake 5 with Evan Susser",
+        "number": "281",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d8a12054-f83e-4dd2-8602-2d2ccbe2a474.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Domino's 2 Jamelle Bouie",
+        "number": "280",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4bd1ede9-2dd7-4f6c-8716-688c8dc1cb1c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Peet's Coffee with Chelsea Peretti",
+        "number": "279",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/22c4e6e4-2df9-4f3c-8280-ce57c4978e9e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "UNLOCKED! Doughboys After Dark with Marisa Pinson & David Neher",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/bde813f5-585d-48cb-9309-02dc3f4231b5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Burger King 4 with Don't Stop Or We'll Die",
+        "number": "278",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1f34dc36-3f99-4136-81d5-d99661050752.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Boston Market 2 with Dewayne Perkins",
+        "number": "277",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b63dec9e-6de2-4292-94bd-4b284ebc221c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Paris Baguette with Lesley Tsina",
+        "number": "276",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/990efd37-8d89-47cc-814a-e64bde1cd097.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockaroundtheclockdoughberfest: Dunkin' 2 with Mookie Blaiklock",
+        "number": "275",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/480efff1-bade-4456-8767-81411d88a525.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockaroundtheclockdoughberfest: 7-Eleven 2 with Jason Woliner",
+        "number": "274",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8b1bbb0b-fc66-4be2-82c3-447d2f34c89a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockaroundtheclockdoughberfest: Denny's 3 with Shaun Diston",
+        "number": "273",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d4634bfb-f87e-4c2c-a279-08c1f0ed409c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockaroundtheclockdoughberfest: ampm with Sierra Katow",
+        "number": "272",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/db625f09-a7fa-4364-b791-5dd24ede093a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockaroundtheclockdoughberfest: IHOP 4 with Dan Ahdoot",
+        "number": "271",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9f5657f3-9dc4-4b61-a948-cd7f00d8fa49.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Cheesecake Factory 2 with Arden Myrin",
+        "number": "270",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0203246f-4049-4197-ab9e-d39792af4ee9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "In-N-Out Burger 3 with Rob Lowe",
+        "number": "269",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f570f3d4-eb13-4646-931d-de8faea56bc1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Blaze Pizza with Eliza Skinner",
+        "number": "268",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/00637dc9-a1db-4c13-b177-11c7e57c4168.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Potbelly Sandwich Shop with Colt Cabana",
+        "number": "267",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a2196922-5674-4ff1-9e1a-b4f9a87b7033.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Mooby's with Eva Anderson",
+        "number": "266",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dc675584-6f4b-4845-8467-722829ab53c6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Buffalo Wild Wings 2 with Leslie Lee III",
+        "number": "265",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c33bdb01-18bb-4955-8773-9e6dfe22a531.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Bonchon Chicken with Ed Zitron",
+        "number": "264",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c565d974-78bd-4809-a3d8-13601f73d4eb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wendy's Breakfast with The Sloppy Boys",
+        "number": "263",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/69bd4b8f-5782-44fc-a4f1-38de1d623edb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Grocery Store Month: Kroger with Dave King and Esther Povitsky",
+        "number": "262",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/75b952f2-8324-4266-b14e-dc479dfc3317.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Grocery Store Month: Albertson's with Raj Desai",
+        "number": "261",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/53d3a6c7-d445-4660-a4d0-8b0881f963b3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Grocery Store Month: Costco with Griffin Newman",
+        "number": "260",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c6963fb6-dcc8-46b4-bc1b-d82942bbed80.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Grocery Store Month: Whole Foods with Fran Gillespie",
+        "number": "259",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5f458d1b-25ea-4518-9a9f-56d7627d8cdf.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Grocery Store Month: Trader Joe's with John Hodgman and David Rees",
+        "number": "258",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3788dabf-98f3-4547-b2a4-ec7139e13a31.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dog Haus with Dani Fernandez",
+        "number": "257",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5b759bae-11e1-4d20-a7ae-d36a8702b1f9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Marco's Pizza with Jon Daly",
+        "number": "256",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dd3f7dd8-12fc-44b8-8602-e7b9e7efdbe2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chili's 2 with Joey Janela",
+        "number": "255",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/913fe3c3-fc58-4d87-884d-e18cb1a2325a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Unlocked! THE SCALE",
+        "number": "254",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/79a121c5-4351-4734-a08e-cf7306bdb5fa.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Topical Freeze: Marie Callender's Meals with Cat Solen",
+        "number": "253",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f0ce2d00-fc01-4f87-a0d7-3bdbfd998686.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Topical Freeze: Ore-Ida with Jason Mantzoukas",
+        "number": "252",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a62e6fec-8a4e-41c9-b286-d16d6f0b3a11.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Topical Freeze: Tina's Burritos with Jamelle Bouie",
+        "number": "251",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4a5d7130-64e7-4123-a57b-a28f7a5891d4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tombstone Week: Tombstone (the pizza) with Blank Check",
+        "number": "250",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/bb54c960-b6b3-441e-afca-332d70140f7d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chipotle 3 with Alan Aisenberg and Mike Castle",
+        "number": "249",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1521c808-44c8-4999-8368-84c706b45dd6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Pizza Hut 2 with Jen D'Angelo",
+        "number": "248",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/157156a0-5043-4cad-9f8f-aaf26d5e4843.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Honeybaked Ham with Kevin T. Porter",
+        "number": "247",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/809954ae-6326-4d77-9509-d9a8de35a684.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Good Times Burgers with Betsy Sodaro (LIVE)",
+        "number": "246",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/195e071e-632c-4189-93d8-af8cc6cd5c8c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Crown Burgers w/ Betsy Sodaro (Live) ",
+        "number": "245",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/23cc652d-7387-421e-aff2-55d55b3cc9f1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: McDonald's Chompionship with Don’t Stop or We’ll Die",
+        "number": "244",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/72145abf-2984-4570-b12d-1b836e9b48c9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: McDonald's - Elite Ate with Nicole Byer",
+        "number": "243",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5209876d-cdcf-4cb5-82e0-0741f529b691.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: McDonald's Round of 32 (Part 2) with Paul F. Tompkins",
+        "number": "242",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/370de977-7362-42c6-b2ba-bb150d1a2429.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: McDonald's - Round of 64 with Jon Gabrus",
+        "number": "241",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d0c7575f-12e0-4d02-9883-3074e40bef4e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "A&W Canada with Jessica McKenna and Zach Reino (LIVE)",
+        "number": "240",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b2b1e48d-85bc-4371-b828-9a3ed99382e0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Habit with Emmy Blotnick",
+        "number": "239",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cf7b062b-b8ff-4964-b8b0-812bbd16b8e9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ezell's with Toni Charline Ramos (LIVE) ",
+        "number": "238",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/91586c04-833e-43c5-8112-f4e0e296fcce.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Boudin Bakery with The Sloppy Boys (LIVE)",
+        "number": "237",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d44a8622-092b-42db-b2be-449eedda3236.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Swensons with Carl Tart (LIVE)",
+        "number": "236",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8ae1713c-4c35-495d-98ed-515bf58ba630.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Culver's with Carl Tart (LIVE)",
+        "number": "235",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3160c5af-1498-467a-965e-a8bd82856de5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Harold's Chicken Shack with Jacquis Neal",
+        "number": "234",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/fda8565b-877c-408a-9587-4ae93c744214.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Unlocked! Wawa with Carl Tart & Christine Nangle (LIVE)",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ab65c8d0-db97-449b-9cfd-b8c8a4f2c01b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Unlocked! Xi'an Famous Foods with Mike Hanford & Paul Rust (LIVE)",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/44df8bdb-06ed-4d1b-892a-4e1555fef158.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Unlocked! The 2018 Doughboys Christmas Special: Wiger Alone",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cf124c0f-0251-4fd6-9b60-7c5ddce87d7e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Steak 'n Shake 4 with Evan Susser",
+        "number": "233",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a70c443f-9c96-46cb-8e6b-4f5f37ce4295.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ample Hills Creamery with Jason Sheridan",
+        "number": "232",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c6fd933d-b8ab-4877-af81-e1e9311e79b9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Noah's New York Bagels with Jennie Pierson",
+        "number": "231",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/617caadb-7011-47fa-ab5e-1e8957457f82.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double - Garfield's Thanksgiving w/ Paul Rust",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b80d2ebf-32e2-4190-a61e-cf81604e04a0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "99 Restaurant with Nicole Byer & Dano (LIVE)",
+        "number": "230",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dbe1b092-2300-471d-834e-0c48eb9f68f0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Regina Pizzeria with John Hodgman & Nicole Byer (LIVE)",
+        "number": "229",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/eab2b345-ec35-4b27-a8ab-7e3508e74bb4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "White Castle with Mike Hanford, Paul Rust, and Fran Gillespie (LIVE)",
+        "number": "228",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b008a46f-a6aa-4bfa-a196-566b514c4e3d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Ate-TL: Cook Out with Jesse Farrar & Mike Hale",
+        "number": "227",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e346fb9b-dd5a-4714-a0e3-4c73c6e155ec.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Ate-TL: Krystal with Sam Richardson",
+        "number": "226",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3d54a97f-7198-4300-898f-3ecf69856621.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Ate-TL: The Varsity with Joe Saunders",
+        "number": "225",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c91a6c9e-26a8-40ec-b7eb-5397861069fa.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Ate-TL: Moe's Southwest Grill with Mary Lynn Rajskub",
+        "number": "224",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5516acfc-dfcc-4a45-94b2-7e6b619e26c6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Ate-TL: The Flying Biscuit Cafe with Steve Agee ",
+        "number": "223",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6d260c59-05b2-40f4-a917-0d2a5542a383.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rita's Italian Ice with Carl Tart & Christine Nangle (LIVE)",
+        "number": "222",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2c51ec2e-c709-4eec-9895-089342f7dd26.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Marie Callender's with Scott Aukerman",
+        "number": "221",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5147e97a-7c1f-4f30-9902-df0204a23d1e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "CAVA with Jamelle Bouie, Carl Tart, and Libby Watson (LIVE)",
+        "number": "220",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/53c98fb0-1a10-4b26-a92a-00468ccdc3a4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ben's Chili Bowl with Christine Nangle & Carl Tart (LIVE)",
+        "number": "219",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2325b767-e72f-46f7-8f3f-1e6ae86372c0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Popeyes Louisiana Kitchen 2 with Andrew Ti",
+        "number": "218",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c021b3e7-1cda-4391-bd0c-91e4cf221566.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Burger King 3 with Haley Mancini",
+        "number": "217",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e5b59309-1720-44bf-bc37-2d9ae504d38f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Lee's Sandwiches with Ify Nwadiwe",
+        "number": "216",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3a76de8f-0113-4a4c-90d7-18dc869f9566.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Del Taco 2 with Kevin Bartelt & Yusong Liu",
+        "number": "215",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4dce53bc-864b-4168-882e-b5f40a3d8265.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Subway 2 with R.J. Fried",
+        "number": "214",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/32e48c19-0e4e-4c96-ac5f-75af25329cff.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "SHAQ WEEK: Shaquille's with Josh Weiner",
+        "number": "213",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9ba77dbd-5e23-478e-a629-9053de9f19da.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Le Pain Quotidien with Johnny Pemberton",
+        "number": "212",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dc0b3e58-33cb-4055-a61b-92401404ca3b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Papa Gino's with John Hodgman, Jean Grae, and Jeff Tweedy",
+        "number": "211",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a47cef72-4b9f-4b63-b59c-6834f00a11ad.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Starbucks Reserve with Jessica Chaffin",
+        "number": "210",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/06b48f04-a9c7-42c8-beb3-6109082ef72b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Which Wich? with Josh Gondelman",
+        "number": "209",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5f9606d8-0dba-4f3e-8d87-777d5b20383a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Al’s Beef with Megan Batoon & Amir Blumenfeld (LIVE)",
+        "number": "208",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e5837557-1836-4004-803b-76b63cadfb5c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ben & Jerry's with The Sloppy Boys",
+        "number": "207",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d008f23f-300c-4fe9-8973-7771cc137d2e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fogo de Chão with Candice King & Kayla Ewell",
+        "number": "206",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e4edd563-f1a9-41bd-b5b0-cbf0a17ee992.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "P. F. Chang's 2 with Kulap Vilaysack",
+        "number": "205",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/20ffd694-968d-45ab-878a-c6049fd11428.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Hattie B's with Carl Tart (LIVE)",
+        "number": "204",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4017c395-a5bc-4edd-90d9-7d5a21a15a64.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Waffle House with Carl Tart (LIVE)",
+        "number": "203",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/61766d67-5301-44e2-ab24-de55d4280e8d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sweetfin Poké with Payman Benz",
+        "number": "202",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f177ed9b-30fd-4533-9740-6e282a2c962b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "AMC Dine-In with Kevin Pollak and Jaime Fox",
+        "number": "201",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/06f148a4-b66a-428a-81b3-4daeeeb92931.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Episode 200 - Chili's Too with Eva Anderson",
+        "number": "200",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/600cd8c7-c6fe-4989-ad2f-16c6bf119be3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Lou Malnati's with Jon Gabrus & Christine Nangle (LIVE)",
+        "number": "199",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f982a280-6609-4271-8e58-fc19f42cb320.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Portillo's with Jon Gabrus & Christine Nangle (LIVE)",
+        "number": "198",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6615df0b-f421-4cf5-93a7-526e6ff0ded5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sizzle Pie with Bill Oakley (LIVE)",
+        "number": "197",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/248c9c7d-f319-41d4-89a7-3c6c10883671.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Poquito Más vs. Qdoba vs. Taco Bell with Nicole Byer",
+        "number": "196",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/413ea363-44c7-401b-b7c0-18cd9c7f39fe.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Qdoba vs. Del Taco with Matt Apodaca",
+        "number": "195",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d10ffa5d-5283-4538-8f90-af05cf5466a6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Poquito Más vs. Taco Bell with Mike Hanford",
+        "number": "194",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/14975576-6af9-4f02-a12c-12f59290f66d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Chipotle vs. Qdoba with Toni Charline",
+        "number": "193",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0a50bacf-dba4-4ee3-adf6-98542fe3d9c2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Native Foods with Tawny Newsome & Alex Kliner",
+        "number": "192",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3da60f71-d400-4d0a-9cbc-706c5a6ec229.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Little Caesars with John Ross Bowie",
+        "number": "191",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/23e84b37-3d2d-491b-8d43-7da22449e4be.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Smoke's Poutinerie with Alana Johnston (LIVE)",
+        "number": "190",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9eb55c46-cc4c-47c7-8c4e-0e4291e4c13b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Super Duper Burgers with Eliza Skinner & Jordan Morris (LIVE)",
+        "number": "189",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f4d0ebb4-bd79-44be-868f-ceaf38e14e0a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Cheba Hut with Jon Gabrus (LIVE)",
+        "number": "188",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f5f2898d-d742-4015-b30f-fecfa500eaf2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Hat with Betsy Sodaro and Mano Agapion (LIVE)",
+        "number": "187",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4f6a129b-2c92-4748-bdc6-8de5baba0e4d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Delta Sky Club with John Hodgman",
+        "number": "186",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/bc9673c9-fea5-4bdb-a14f-9434806999f6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Poquito Más with Dan Goor",
+        "number": "185",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5b2fd17d-2afe-469f-8a45-401b3656c216.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double 88 - Soup's Up with Joe Hartzler",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d13ffc5d-dfbd-41aa-b561-b14b0bbe3c8b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double 42 - A Very Doughboys Christmas",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/20f1825f-eadc-4b29-bb99-32e5cd0e1682.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "McDonald's with Sarah Silverman",
+        "number": "184",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dbe480c1-731e-4a6e-bfd7-de08968936de.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Papa John's with Lamar Woods",
+        "number": "183",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3a2b158c-2bca-4902-a81a-13acf9b7d613.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rubio's with Mary Holland (LIVE)",
+        "number": "182",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c98d6201-81e2-4aef-9e57-f8ee85a48012.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dairy Queen 2 with Don’t Stop or We’ll Die",
+        "number": "181",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2906b214-6169-4ff3-8604-cbe2cebeff69.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double 66 - Tarot Pizza with Ariana Lenarsky",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9b9d0e61-f2c5-4883-bc48-1e3875e2470f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "El Torito with Jack Allison",
+        "number": "180",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/24490bc9-f606-4614-b532-3deb4a67e961.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Top Round Roast Beef with Ike Barinholtz",
+        "number": "179",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/783c3829-265b-49d7-9c78-813bc02b8847.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Maggiano's Little Italy with Kevin Pollak",
+        "number": "178",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3dfcedf9-b311-4198-8c5b-81618279fe27.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Octdoughberblessed: Cracker Barrel with Betsy Sodaro",
+        "number": "177",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/481246a5-bc89-4788-a363-422da3e58269.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Octdoughberblessed: Loving Hut with Raj Desai",
+        "number": "176",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0e599950-7803-4b23-96e3-f0a9d6152797.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Octdoughberblessed: Canter's Deli with Evan Susser and David Phillips",
+        "number": "175",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1b316793-511f-4eab-902f-76bf752133cd.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Octdoughberblessed: In-N-Out vs Chick-Fil-A with Scott Aukerman",
+        "number": "174",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/20ba91e3-8df2-47f8-9d06-789017e6e713.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Benihana with D'Arcy Carden",
+        "number": "173",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/85cfaae3-2ea4-4c63-ae8d-4c17ba0a1187.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Menchie's with Jackie Johnson",
+        "number": "172",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4cab38dd-c588-48ce-bad0-c655a275ec07.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Outback Steakhouse 2 with Leann Bowen",
+        "number": "171",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f8d435af-0552-4e8b-b8a3-3779f54c6734.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wahoo's Fish Taco with Eliza Skinner",
+        "number": "170",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/85de0551-3c7b-4df4-8405-e1fb1b62e700.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Johnny Rockets with Esther Povitsky",
+        "number": "169",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a048e584-297f-46e3-a763-5871d49dedf3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "P. F. Chang's with Jessica McKenna and Zach Reino",
+        "number": "168",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/182cabd8-4ed2-4d9c-be7c-82f51f30fc7f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Evan Susser Summer Ice Cream Invitational Finals with Evan Susser",
+        "number": "167",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0691dab8-2db0-43c1-aa3c-6512f32f5912.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Pink's Hot Dogs with Alana Johnston (LIVE)",
+        "number": "166",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cb4d6c6f-a696-4d88-9c18-e15ed2474e19.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Souplantation/Sweet Tomatoes with Kelly Nugent and Lindsay Katai",
+        "number": "165",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4f703493-d63e-4fba-b2ab-a866dc38d5ce.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Panera Bread with Bill Oakley",
+        "number": "164",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/679e430a-e0f3-4df2-a053-76e4619b63a4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Mel's Drive-In with Jon Gabrus (LIVE)",
+        "number": "163",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d788e267-66bb-429c-91fe-ad83c651ddb0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Panda Express 2 with Cristela Alonzo",
+        "number": "162",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/019516e7-2837-482b-8379-66d88c69e0fa.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "IHOb with Bug Mane",
+        "number": "161",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/90301d14-e425-49d6-bcae-68c71353fbda.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Norms with Jordan Morris",
+        "number": "160",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8140fe54-83f6-44d7-8d93-a063f8514067.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Firehouse Subs with Mary Sohn",
+        "number": "159",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/aedebed7-87c0-47b4-b7a8-c2fcdde004a9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Quizno's with Haley Joel Osment",
+        "number": "158",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/27900697-82de-4aa3-91eb-6cac5795c525.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Gus's World Famous Fried Chicken with Ben Gruber",
+        "number": "157",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8d95d10b-afb1-489e-abfa-a3a8e1def6ed.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell 4 with Gillian Jacobs",
+        "number": "156",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4e940112-e15b-452d-82df-11f86728c38b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Denny’s Solo Menu with Matt Mira",
+        "number": "155",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e16e5a76-6be9-4a55-9008-2ee0a143bdb7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "TGI Friday’s 2 with The Sklar Brothers",
+        "number": "154",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/269ae1d1-8128-45b6-97ad-f603b16e8690.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ruth's Chris Steak House with Andrew Secunda",
+        "number": "153",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cc5dbf29-bf9b-405b-bc29-62cd2cceecef.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Olive Garden 2 with Joel Kim Booster",
+        "number": "152",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/39e2792a-34f6-4bd8-ac2e-b87934d4b6b4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Farmer Boys with Nick Rutherford",
+        "number": "151",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/838a8d36-6936-4b0f-8d4c-9f53ac5001b1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Dopeboys 4/20 Smokestackular with Jon Gabrus",
+        "number": "150",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7e57a986-add6-4ea7-979e-ecdcaf5255ab.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Pie Hole with Marcy Jarreau",
+        "number": "149",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4fd2bd9e-1c20-4651-a1c0-531fa073653a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Coco's with Alison Rosen",
+        "number": "148",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/38e7942b-9668-4504-92dc-8db37fc5e2f7.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Finals with Paul Scheer",
+        "number": "147",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e6984516-b425-41f4-8022-b254da47e759.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Semifinals Match 2 with Michael Daniel Cassady",
+        "number": "146",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/08b9091f-dfc8-4b65-81c4-16241908575f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Semifinals Match 1 with Carl Tart",
+        "number": "145",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c044489b-39f9-4192-a012-0ea558ccaedf.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Little Caesars vs. Papa John's with John Gemberling",
+        "number": "144",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5e044798-7e98-498f-b3dd-ba91fa232d18.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Munch Madness: Domino's vs. Pizza Hut with Claudia O'Doherty",
+        "number": "143",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9a14d197-0386-4f51-a5a2-ecb9fa50f514.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Ike’s with Spencer Crittenden (LIVE)",
+        "number": "142",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8fe0e8d0-2dce-409c-9d94-89a10c1bcb6f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sugarfish with Jason Mantzoukas",
+        "number": "141",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/bcbd5413-5054-4eec-93d6-da92bd1c66b6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Checkers and Rally’s with Neil Punsalan",
+        "number": "140",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cc50988a-50d0-44c8-84a9-0ef2b1fb9e8c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Halal Guys with Dave Schilling",
+        "number": "139",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/017cafd0-b5cb-4fce-bb08-ecf643e562cf.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Whataburger with Jon Gabrus (LIVE)",
+        "number": "138",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c6b86ba0-d414-40ea-9c55-e4dcc2b378e1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Carl’s Jr./Hardee’s 3 with Alana Johnston",
+        "number": "137",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/496bf398-e9fa-4c63-aa35-95c652ffc94d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Shipley Do-Nuts with Jon Gabrus (LIVE)",
+        "number": "136",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7e72536f-443d-4a77-857d-fc2450b65763.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double - Dream Mitchy",
+        "number": "135",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/343fe520-7db9-4771-901a-cbdf6433556b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Cinnabon with Nicole Byer",
+        "number": "134",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1747d8d3-44de-4b85-89ba-c3282f0aa759.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "LIVE in Austin: Torchy's Tacos with Jon Gabrus",
+        "number": "133",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/23bfb9f2-2740-4da2-a8a6-7f9dd9c50c2a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fosters Freeze with Holly Prazoff",
+        "number": "132",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6a0d8ed6-d681-4629-b282-d63fd5f27e36.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chick-fil-A with Noël Wells",
+        "number": "131",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e4159ecc-53ac-438f-9d75-df34aba65b9d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double 13 - Summer’s Poppin’ with Betsy Sodaro",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4f70fb41-409c-4725-9095-048ad7867d40.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dick's Drive-In with Evan Susser (LIVE)",
+        "number": "130",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/fd5aa289-038f-439f-9aaf-a6084de63c7b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wienerschnitzel with Rob Huebel",
+        "number": "129",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3753f820-c801-4b36-a62f-98ea5d408b2d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Arby's 2 with John Hodgman",
+        "number": "128",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0cc378f2-3828-4da5-a5cc-f75c121f7a3c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Great Shrimp Off with Sean Clements and Hayes Davenport",
+        "number": "127",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/83f4896e-1b77-4dcc-b334-16ebd1fe9be1.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Medieval Times with Mary Holland and Matt Newell",
+        "number": "126",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/6f12a97f-1d47-491a-a996-279f986c3664.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "ESPN Zone with Neil Campbell",
+        "number": "125",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f2fb2a0e-0f1a-44f8-9fd3-c7ac9770521e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yard House with Matt Besser",
+        "number": "124",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2cb84199-fd0f-4452-b7f7-0a78df786772.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Guy's American Kitchen with Christine Nangle (LIVE)",
+        "number": "123",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b6a50366-d918-49d4-abab-19bf81a6268a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "El Pollo Loco with Lamar Woods",
+        "number": "122",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ed5aa2d3-1e21-4cd8-a5e3-1d2b0e55d727.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Shakey's Pizza with Kyle Mooney",
+        "number": "121",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/909bd4fb-56ce-47e8-b313-f1f06c605be8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "HomeTown Buffet with Toni Charline",
+        "number": "120",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/43c9b0fe-a8f1-46b4-9242-44d27de92354.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "KFC with Paul F. Tompkins",
+        "number": "119",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e018384d-0357-4ffc-8abe-a81f5ba6e81b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chipotle 2 with Chelsea Davison",
+        "number": "118",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8f22a35b-96ff-417d-bbb4-fdeb7e673b57.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double 24 - The First Domino with Joe Quasarano",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f42d0338-f473-48d2-9735-c080f369a6cd.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Daphne’s with Jessica Jean Jardine ",
+        "number": "117",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f204205f-e30f-4014-955b-53b0cdd9b333.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Roscoe's House of Chicken and Waffles with Carl Tart",
+        "number": "116",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/afb9002d-d0a2-4f13-a83d-0662eb944169.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "IHOP 2 with Danny Jelinek ",
+        "number": "115",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9ee22f05-9dd1-4922-a361-e39fdbfd5e97.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dunkin’ Donuts with Joe Mande",
+        "number": "114",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/56beefa8-ff8c-4175-99b6-efbd504de75c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Golden Corral with Stoney Sharp",
+        "number": "113",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c8844c8d-616e-4dbf-bf0c-29008829b48a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Umami Burger 2 with David Neher",
+        "number": "112",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f51fae00-851c-4df5-9b13-180ac7b4989d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Shake Shack with Jason Concepcion",
+        "number": "111",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/11625beb-6b20-4b48-9085-1ceaedab98ae.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughboys Double 14 - Unsatisfied Yelpers with Erin Whitehead",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/46e3eb10-bf6b-49b2-ae00-e858e8cf1597.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Claim Jumper with Heather Anne Campbell",
+        "number": "110",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/011e223b-e47d-459c-9829-d1a549e204c5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Burger King 2 with Jordan Morris (LIVE)",
+        "number": "109",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/348303cc-6191-46a2-ad00-9c8ed529ec9c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sizzler with Marisa Pinson",
+        "number": "108",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1dc3cf4b-aa95-43cf-a344-afca943cec5e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jersey Mike’s with Drew Tarver",
+        "number": "107",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/356f554d-6b29-44ed-b389-3271a343a718.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Coffee Bean with Hannah Kasulka",
+        "number": "106",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/430bff9b-d8e0-425d-b9ed-f9c58d62914a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "IKEA with Dave Thomason",
+        "number": "105",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/914a7787-f752-472c-a5f2-9d42b98a7c27.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sharky’s with Erin McGathy",
+        "number": "104",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e76356ee-b0d1-4060-9404-f1c3cdbc7b73.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Carl’s Jr./Hardee’s 2 with Chris VanArtsdalen",
+        "number": "103",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d87a45d2-13d6-4eb8-b392-79d2b5f4e8ab.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Mr. Pizza with Jesse Thorn",
+        "number": "102",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e5017d38-442c-4a45-81a1-b323c4ac78cc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wetzel’s Pretzels with Jon Daly",
+        "number": "101",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/868e1107-f09c-4f50-981d-6aa108ffee61.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Free Preview: Doughboys Double - *batteries not included with Amy Nicholson",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c14eb93b-1da2-40c8-b476-15e39ce3ac49.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Nugget Power Hour with Nicole Byer & Jon Gabrus",
+        "number": "100",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7362946b-3b34-425f-8f4f-fd23fd7b8ba8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jimmy John's with Lauren Lapkus",
+        "number": "99",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/32938031-8cc1-4fba-b5d8-14b6eac67b59.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jamba Juice with Dylan Gelula",
+        "number": "98",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/753bb290-0baa-444a-bd84-226b5ceb46d2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: FINALS with Paul Rust",
+        "number": "97",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/eb34a00e-38fa-4534-9157-a5649b5636a6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Wendy’s v. Wingstop with Matt Selman",
+        "number": "96",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8b579cd2-c013-4a21-844c-a6cca5f05915.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: McDonald’s v. Popeyes with Armen Weitzman",
+        "number": "95",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d38b613e-6374-457e-8c4b-4490f683fe73.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Buffalo Wild Wings v. Wingstop with Nicole Byer",
+        "number": "94",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4f364652-d128-4ea6-9c7c-d2f764971f6f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Full Bird Region with Eugene Cordero",
+        "number": "93",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/938945be-70a2-4d2c-8c8c-db07005e5da6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Chick-fil-A v. Wendy’s with Ryan Perez  ",
+        "number": "92",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/415d8807-2cbe-4b60-99dc-f4c0af5316f6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: McDonald’s v. Panda Express with Fran Gillespie",
+        "number": "91",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2b369630-43d3-4a96-a2e6-1a431b4efe38.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "In-N-Out Burger 2 with ???",
+        "number": "90",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/80ed4f3f-4902-4391-bc06-51ebe140508c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Mac To-Fight with Evan Susser & Van Robichaux",
+        "number": "89",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/cb24e582-fad7-454d-8817-201ef306a9a2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "BJ’s with Sean Clements & Hayes Davenport",
+        "number": "88",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3260978a-92d8-4908-9731-f32470ceff6b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell 3 with Bobby Lee",
+        "number": "87",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/48ff2826-8f06-4061-a407-47c69f60077b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell 2 with Jon Gabrus (LIVE)",
+        "number": "86",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/621aff5f-3abe-4ed0-89e4-a95f7a0e327f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tony Roma's with Bug Mane",
+        "number": "85",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f5badb42-c21e-4547-8d38-6b8f361bceab.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Buca di Beppo with Drew McWeeny",
+        "number": "84",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/72a384ca-d66a-47d3-9eee-6ac7b1d467b9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tender Greens with Ryan Stanger",
+        "number": "83",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/453e2734-2e5e-4bb5-af06-3423f2e7fc6d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rogueboys: Rogue One with Drew McWeeny",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/80da3f9c-54aa-4ec7-8cd6-30424febc834.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Steak 'n Shake 3 with Evan Susser",
+        "number": "82",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d0879a5e-069e-4074-876b-6e6dc2978c4b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jack in the Box with Spencer Crittenden",
+        "number": "81",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/058bd66a-de63-45f0-b590-160c9f35e0dc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Hooters with Kulap Vilaysack",
+        "number": "80",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d29c0606-d89d-48af-bd77-f52c555c1b31.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Church's Chicken with Demi Adejuyigbe",
+        "number": "79",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/82949c29-0545-4bf1-be74-aad3b0d7200d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wood Ranch with Esther Povitsky",
+        "number": "78",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/55ed342a-3ba4-40e7-b6bf-bd776ffb2b8a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Cold Stone Creamery with Kevin T. Porter",
+        "number": "77",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/394b6c0f-f615-4eeb-874c-10fc8b97ac9e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rocklobsterfest: Red Lobster 4 with Sean Clements & Hayes Davenport",
+        "number": "76",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3dbbb513-b966-4ae0-b7f2-0eab829c8dbd.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rocklobsterfest: Red Lobster 3 with Nicole Byer",
+        "number": "75",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0132c64c-584f-4bc3-ba0e-940daf964f7e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rocklobsterfest: Red Lobster 2 with Ross Kimball",
+        "number": "74",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/155b33a0-0003-4e07-b77a-d4d658ecc2f0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rocklobsterfest: Red Lobster 1 with Jessica McKenna",
+        "number": "73",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/69605dc0-ec66-4cf3-82c9-f5b5b507845a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dairy Queen with Christine Nangle and Matt Selman Live At L.A Podfest 2016",
+        "number": "72",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0ae13ccb-dda6-4deb-a727-c53c6a12c43d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Baskin-Robbins with Dave King",
+        "number": "71",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b8d50432-b511-4f21-9b83-d721cafad56e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Dave & Buster's with Allan McLeod",
+        "number": "70",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/dae5e526-f96d-46b4-9b2b-1479b9152266.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yogurtland with Van Robichaux",
+        "number": "69",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c20fe442-ba58-4a62-b68d-649be7ba4116.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Red Robin with D'Arcy Carden",
+        "number": "68",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/84e37d70-19a8-4e2d-b7eb-9d2ac602f933.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Cheesecake Factory with Beck Bennett",
+        "number": "67",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4df60aa7-0047-467a-a377-df1b314f290b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Minisode: After Dough with Joe Episode 3",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4138de93-8448-4163-b930-2e2e3cc1f548.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughlympics: Dunkin' Donuts v. McDonald's v. Starbucks with Sean O'Connor",
+        "number": "66",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0801aa34-f273-49c5-b65c-1e1ff814f65d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Minisode: After Dough with Joe Episode 2",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/691281aa-442a-406a-ba98-8e7ee8c66bd4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughlympics: Chipotle v. Del Taco v. Taco Bell with Courtney Davis",
+        "number": "65",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/966baf26-41fd-4151-87f3-9bb4a083cb5c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Minisode: After Dough with Joe Episode 1",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f7923c45-7527-4e86-976c-7bfd4ad761a6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Doughlympics: Domino's v. Papa John's v. Pizza Hut with Michael Blaiklock",
+        "number": "64",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/4cf0754f-2bc9-4a49-962f-65a62cb8fd2d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Minisode: The 2016 Doughlympic Opening Ceremonies hosted by Joe Saunders",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/08740fcb-c549-4aaa-a5ba-1f62c3e0f7d2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "7-Eleven with Fran Gillespie (LIVE)",
+        "number": "63",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/29c7a730-9356-4d03-bec3-940b1d2f8ac8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fatburger with Yamara Taylor",
+        "number": "62",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/30030609-2dd3-47c5-8102-e4eca1ea5c27.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Bob's Big Boy with Dave Ferguson",
+        "number": "61",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f6a5953d-a3b8-40dc-99f5-1bfe2d0b0649.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Bubba Gump Shrimp Co. with Paul Scheer",
+        "number": "60",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/f9d0d678-e62f-429e-a9b0-0f85399041bb.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Islands with Nick Mundy",
+        "number": "59",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/921753e8-45b8-4f09-b3ba-294e93bc211b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Pinkberry with Lauren Lapkus",
+        "number": "58",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/20530098-d31a-43c2-b311-d3fd8d5bf26f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Hokkaido Ramen Santouka with Jeff Kenji Sloniker",
+        "number": "57",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3beec760-a4ff-4489-9686-4c2cbd625f9b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Jollibee with Jonah Ray",
+        "number": "56",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2e573bbd-05e0-41c6-acda-1fae85f17e50.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Baja Fresh with Claudia O'Doherty",
+        "number": "55",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/841fbcb9-53ac-4d10-ba06-d3faa3a022fc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Popeyes Louisiana Kitchen with Lesley Arfin",
+        "number": "54",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/354475d4-94ea-4205-8f40-9a5a09a555b2.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Yoshinoya with Jensen Karp",
+        "number": "53",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9942a50e-b451-404e-8753-c9570b9dd5dd.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Morton's The Steakhouse with Tim Kalpakis",
+        "number": "52",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/62c0444b-1c10-4176-956f-e31d19ded037.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "The Olive Garden with Christine Nangle",
+        "number": "51",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/18edbf89-5aad-4a1e-90e8-f97d9f539a26.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Hillstone with David Phillips",
+        "number": "50",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7c3121aa-454c-4c55-bf7e-3efd8e0026f9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Sweetgreen with Siobhan Thompson",
+        "number": "49",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2c74b0f9-32a5-4d3b-a164-4605d5680835.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chuck E. Cheese's with Erin McGathy",
+        "number": "48",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1b2799cc-4be9-475f-a863-1f588c518757.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Veggie Grill with Nathan Barnatt",
+        "number": "47",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8a76c6ee-bf3e-4bcc-8255-7e6aa9c7dde0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: FINALS - In-N-Out Burger v. Shake Shack",
+        "number": "46",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b7f9da80-890c-4e87-8e8a-fe47faf83d00.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Minisode Winner v. Wendy's",
+        "number": "45",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8086e9f7-3cb6-4032-a4cb-c1a46e038488.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Minisode - Five Guys v. Shake Shack",
+        "number": "44",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a7b324a4-4658-439a-8a66-4aa2c2582a21.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Carl's Jr./Hardee's v. In-N-Out Burger",
+        "number": "43",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/7e81740c-8d69-4415-9dfe-a3a8e2d7d5c9.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Steak ‘n Shake v. 6-seed",
+        "number": "42",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/11fc6887-fa63-4932-a961-bc009fe24259.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Eat-in Minisode - ??? v. ???",
+        "number": "41",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/59f2cd17-3760-4fcf-8609-3a459efc1d6c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Tournament of Chompions: Carl's Jr./Hardee's v. Fuddruckers",
+        "number": "40",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8ad10b91-3104-4ca9-bbd1-639d1b7ce1e6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wendy's with Paul Rust",
+        "number": "39",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ad5dc071-2897-4da6-89ee-bb0512aff605.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Mimi's Cafe with Georgia Hardstark",
+        "number": "38",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/89e833da-726d-4d01-a0bf-2f6ef9a0e4e6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Panda Express with Tricia McAlpin",
+        "number": "37",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b70c2df8-5573-4f78-a27b-b611231f23fc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Togo's with Matty Smith",
+        "number": "36",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2f9d959f-c970-4275-b546-1b629a04817c.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Krispy Kreme with Matt Besser",
+        "number": "35",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/9a76b7f8-ec06-4fa3-bb57-f1674241d993.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "California Pizza Kitchen with Eva Anderson",
+        "number": "34",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/801601cb-65f3-4bd4-950e-601a935a6fc4.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Five Guys with Jefferson Dutton",
+        "number": "33",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0bd77106-3e8a-41a0-9f13-59f91a265aac.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Pizza Hut with Neil Campbell",
+        "number": "32",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/1f765b89-7825-47a2-b1f4-4cc3110ab42d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Steak 'n Shake 2 with Evan Susser",
+        "number": "31",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/fdac6861-baf7-40b8-b804-302d2fb780ab.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Arby's with Vanessa Ramos",
+        "number": "30",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3fa6a1b9-7cae-44ad-a34f-1778460311e8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Wingstop with Emmy Blotnick",
+        "number": "29",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/44ce4735-532b-49dd-8dae-e467f7c90728.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Del Taco with Alan Yang",
+        "number": "28",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3022600b-3ce0-4b32-a710-f1d4a91bbb53.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Fuddruckers with Ryan Perez",
+        "number": "27",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/2d69de42-8eeb-41ac-bf6d-e9714d1bb75f.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Burger King with John Roy",
+        "number": "26",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/5ba512ae-2373-43a8-b3ba-ddf287ca3f85.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockdoughberfest: Rock & Brews with Zoe Jarman",
+        "number": "25",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/501410c9-bf84-46b0-aadc-8b097b9762b5.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockdoughberfest: Hard Rock Cafe with Scott Gairdner",
+        "number": "24",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/e41f57d9-d3a2-434e-be4f-c2f03ec44a5a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockdoughberfest: Margaritaville with Mike Carlson",
+        "number": "23",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/04aff22f-0bf6-4913-870b-20b8f1aea817.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Rockdoughberfest: Cabo Wabo Cantina with Julie Brister",
+        "number": "22",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c3498e2b-bfb6-44d0-adfe-24529bd4c945.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "L&L Hawaiian Barbecue with Eugene Cordero",
+        "number": "21",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d29d90d2-d324-485c-ae02-1fda06d0c9bc.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Starbucks with Joe Saunders",
+        "number": "20",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/373491e4-b796-4e69-ab44-7beae686abf8.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Buffalo Wild Wings with Matt Selman",
+        "number": "19",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3ed2249b-6b85-4e43-8546-a473c8a2e7e0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Steak 'n Shake with Evan Susser",
+        "number": "18",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/58a9f09b-0d8d-4871-bc1e-d042fb6699bf.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Subway with Fran Gillespie",
+        "number": "17",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/67537f94-e674-44fd-bedc-c26f292d2a16.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "In-N-Out Burger with Armen Weitzman",
+        "number": "16",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/74df1134-ffad-412a-8fe7-32b23c7f2642.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Boston Market with Annie Mebane",
+        "number": "15",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/50dfc659-6441-471a-8922-03ad191dc0f6.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Original Tommy's with Jim Woods",
+        "number": "14",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/0fdbe66b-9b24-4035-ac30-2e9644059330.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Denny's with Farley Elliott",
+        "number": "13",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8388847c-ad9e-40cb-a0da-0a0eb48cc6aa.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chick-fil-A with Betsy Sodaro",
+        "number": "12",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/38e64723-15f8-4597-a2ac-dec3dc9f66ec.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Carrows with Erin Whitehead",
+        "number": "11",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/834899af-e539-4cca-8e38-a4caf70fedc3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Domino's with Matt Kowalick",
+        "number": "10",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/c75e092a-5ff0-4154-bea4-506772a2f242.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Carl's Jr./Hardee's with Ben Axelrad",
+        "number": "9",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/b353c74f-7a57-4a7f-92b8-0c9a0b1e28aa.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Umami Burger with Heather Anne Campbell",
+        "number": "8",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/ee3cc9dc-698c-4425-ac50-9ee619d44260.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chipotle with Mike Hanford",
+        "number": "7",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/94f949a4-35e9-4bc0-aee4-44e0360c7f4a.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "TGI Fridays with Jordan Morris",
+        "number": "6",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/8ea8f676-0a20-429a-9c52-83dcd72851e0.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Long John Silver's with Mary Holland",
+        "number": "5",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/278ddaa3-b9af-47f7-9366-103e4c08703b.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Outback Steakhouse with Jon Gabrus",
+        "number": "4",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/3b59cdae-54be-41df-9593-7ffe2d719c8e.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "IHOP with Alison Agosti",
+        "number": "3",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/a79d2f4b-011a-4489-868d-69a7363a1328.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Taco Bell with Jack Allison",
+        "number": "2",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/25aec7c2-c568-4d24-8d89-67a4e7d6dad3.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    },
+    {
+        "title": "Chili's with Eva Anderson",
+        "number": "1",
+        "mp3": "https://chrt.fm/track/89ED1D/s.gum.fm/s-5b33d6d41ae90f05515ebd87/prfx.byspotify.com/e/rss.art19.com/episodes/d6b3c221-f2e4-4e17-a0d7-fd567036751d.mp3?rss_browser=BAhJIgxNb3ppbGxhBjoGRVQ%3D--4f04cd103bfdd3e94cbbb356ead53321a4d63e94"
+    }
 ]

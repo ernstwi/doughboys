@@ -3,12 +3,15 @@ function getRandomInt(cap) {
 }
 
 function nextEp() {
-    fetch('./data.json').then(res => {
-        return res.json();
-    }).then(ids => {
-        let id = ids[getRandomInt(ids.length)];
-        document.getElementsByTagName('iframe')[0].src =
-            `https://omny.fm/shows/doughboys/${id}/embed?style=cover`;
+  fetch("./data.json")
+    .then((res) => {
+      return res.json();
+    })
+    .then((eps) => {
+      let ep = eps[getRandomInt(eps.length)];
+      document.getElementsByTagName("title")[0].src = ep.title;
+      document.getElementsByTagName("number")[0].src = ep.number;
+      document.getElementsByTagName("mp3")[0].src = ep.mp3;
     });
 }
 
